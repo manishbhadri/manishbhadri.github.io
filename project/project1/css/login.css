@@ -7,14 +7,19 @@ body {
     margin-top: 3rem;
 }
 
-form {
-    padding: 3rem 30rem;
+.login {
+    margin-top: 3rem;
+}
+
+.account {
+    margin-top: 3rem;
 }
 
 .forget {
     text-align: center;
     font-size: 18px;
     margin-bottom: 2rem;
+    margin-top: 3rem;
 }
 
 .forget a {
