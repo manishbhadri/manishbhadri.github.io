@@ -364,7 +364,7 @@ input {
         position: absolute;
         text-align: center;
         opacity: .07;
-        font-size: 98px;
+        font-size: 60px;
         font-weight: bold;
     }
     .information .main-content::after {
