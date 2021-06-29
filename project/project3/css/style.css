@@ -25,6 +25,7 @@
   /* ------------------Hero Section----------------- */
   
   .hero {
+      background-image: url(../img/_3112903.jpg);
       min-height: 530px;
       background-size: cover;
       position: relative;
