@@ -42,6 +42,12 @@
         .Concerts {
             flex-direction: column;
         }
+        .Concerts h1 {
+            font-size: 50px;
+            line-height: 4rem;
+            padding: 1rem 2rem;
+            margin-bottom: 1rem;
+        }
         .Concerts p {
             line-height: 1.75rem;
             color: #333;
@@ -69,10 +75,10 @@
             flex-direction: column;
         }
         footer .input {
-            width: 17rem;
+            width: 13rem;
         }
         footer .input1 {
-            width: 17rem;
+            width: 13rem;
         }
         footer .icon {
             font-size: 26px;
@@ -93,7 +99,7 @@
             flex-direction: column;
         }
         .subscribe {
-            width: 18rem;
+            width: 14rem;
             height: 2.5rem;
             border: none;
             margin-left: 6px;
